@@ -5,9 +5,9 @@
 # h5 *italic* **bold** ***bold-italic***
 # h6 *italic* **bold** ***bold-italic***
 
-normal text
+normal text *italic* **bold** ***bold-italic***
 
-`highlighted text`
+`highlighted text *italic* **bold** ***bold-italic***`
 
 ```js
 let type = 'js';
